@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534687617943",
+    "project_id": "pinjol-ktp-tenor-2-bulan",
+    "storage_bucket": "pinjol-ktp-tenor-2-bulan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534687617943:android:3ff24b6018a806060d6ad2",
+        "android_client_info": {
+          "package_name": "com.PinjamanOnlineTanpaKtp.pinjolcepatcairmudahacc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534687617943-jd74eh336q3fkgic3voqan252pu8kpla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNkrEfhMVv1gKb8Ma95Af2dyNMpCs28-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534687617943-jd74eh336q3fkgic3voqan252pu8kpla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
